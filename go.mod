@@ -86,7 +86,7 @@ require (
 	golang.org/x/mod v0.3.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
-	golang.org/x/sys v0.0.0-20200523222454-059865788121
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.3
 	google.golang.org/api v0.29.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
